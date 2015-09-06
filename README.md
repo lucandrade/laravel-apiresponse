@@ -1,7 +1,7 @@
 # Laravel Api Response
 
 [![Build Status](https://travis-ci.org/lucandrade/laravel-apiresponse.svg?branch=master)](https://travis-ci.org/lucandrade/laravel-apiresponse)
-[![Codacy Badge](https://api.codacy.com/project/badge/e2b621c953524831a4da8ab1bc847e75)](https://www.codacy.com/app/lucas-andrade-oliveira/laravel-apiresponse)
+[![Codacy Badge](https://api.codacy.com/project/badge/0f54ab1740394bdc99cfebce5da83d21)](https://www.codacy.com/app/lucas-andrade-oliveira/laravel-apiresponse)
 
 Standard API response to use with Laravel Framework
 
