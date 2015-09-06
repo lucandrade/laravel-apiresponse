@@ -1,0 +1,32 @@
+{
+    "name": "lucasandrade/laravel-apiresponse",
+    "description": "Biblioteca de padronização de resposta em json",
+    "keywords": ["framework", "laravel", "Json Response", "api response"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "illuminate/support": "5.1.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4":{
+            "Lucandrade\\ApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Andrade de Oliveira",
+            "email": "lucas.andrade.oliveira@hotmail.com"
+        }
+    ],
+    "config":{
+        "bin-dir": "bin/"
+    },
+    "minimum-stability": "dev",
+    "scripts": {
+        "test":        "bin/phpunit -c phpunit.xml"
+    }
+}
