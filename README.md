@@ -47,7 +47,7 @@ php artisan vendor:publish
 Execute this command from your project path:
 
 ```
-cp ./vendor/lucasandrade/laravel-apiresponse/src/Lucandrade/ApiResponse/config/apiresponse.php ./config
+cp ./vendor/lucasandrade/laravel-apiresponse/src/config/apiresponse.php ./config
 ```
 
 Uncomment the following line of your `bootstrap/app.php` file:
