@@ -26,6 +26,7 @@
         "bin-dir": "bin/"
     },
     "minimum-stability": "dev",
+    "prefer-stable" : true,
     "scripts": {
         "test":        "bin/phpunit -c phpunit.xml"
     }
